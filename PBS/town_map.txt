@@ -1,0 +1,25 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+Filename = minervaregion.png
+Name = Minerva Region
+Point = 25,16,Tealdrip Town,My House,42,40,35,
+Point = 25,15,Tealdrip Town,Pokemon Adoption Center,,,,
+Point = 24,16,Tealdrip Field,,,,,
+Point = 24,15,Tealdrip Field,Kurt's House,,,,
+Point = 23,16,Route 1,,,,,
+Point = 22,16,Route 1,Beach,,,,
+Point = 23,15,Route 1,,,,,
+Point = 23,14,Crimsonhill,Crimsonhill Gym,89,11,17,
+Point = 24,14,Crimsonhill,Dance Theater,89,11,17,
+Point = 25,14,Route 2,,,,,
+Point = 26,14,Route 2,,,,,
+Point = 27,14,Rest House,Rest House,,,,
+Point = 26,13,Route 2,Crashtooth Pass,,,,
+Point = 27,13,Crashtooth Cave,Crashtooth Cave Entrance,,,,
+Point = 26,10,Shatterbolt Town,,,,,
+Point = 25,10,Shatterbolt Town,,,,,
+Point = 26,11,Crashtooth Cave,Crashtooth Cave Entrance,,,,
+Point = 26,12,Crashtooth Pass,,,,,
+Point = 25,12,Crashtooth Pass,,,,,
+Point = 25,11,Crashtooth Pass,,,,,

@@ -1,0 +1,200 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Lappet Town (2) - Route 1 (5)
+2,North,0,5,South,4
+# Lappet Town (2) - Safari Zone outside (66)
+2,West,0,66,East,0
+# Route 8 (69) - Lappet Town (2)
+69,North,12,2,South,0
+# Route 6 (44) - Route 1 (5)
+44,South,43,5,North,0
+# Safari Zone outside (66) - Route 1 (5)
+66,North,18,5,South,0
+# Cedolan City (7) - Route 1 (5)
+7,South,0,5,North,2
+# Cedolan City (7) - Route 6 (44)
+7,West,5,44,East,0
+# Cedolan City (7) - Lerucean Town (23)
+7,East,0,23,West,78
+# Route 7 (47) - Cedolan City (7)
+47,West,0,7,East,0
+# Route 2 (21) - Cedolan City (7)
+21,South,0,7,North,21
+# Route 2 (21) - Lerucean Town (23)
+21,East,0,23,West,1
+# Route 2 (21) - Route 7 (47)
+21,East,77,47,West,0
+# Route 3 (31) - Lerucean Town (23)
+31,South,32,23,North,0
+# Route 3 (31) - Ingido Plateau outside (35)
+31,West,0,35,East,10
+# Ingido Plateau outside (35) - Route 4 (39)
+35,West,11,39,East,0
+# Route 5 (41) - Route 4 Cycling Road (40)
+41,North,0,40,South,0
+# Route 5 (41) - Route 6 Cycling Road (45)
+41,South,6,45,North,0
+# Route 7 (47) - Battle Frontier (52)
+47,East,8,52,West,0
+# Route 8 (69) - Safari Zone outside (66)
+69,North,0,66,South,10
+# CrashtoothCave (108) - CrashtoothCaveNorth (111)
+108,West,0,111,East,23
+# CrashtoothCaveWest (110) - CrashtoothCave (108)
+110,East,3,108,West,0
+# CrashtoothCaveNorth2 (112) - CrashtoothCave (108)
+112,East,38,108,West,0
+# CrashtoothCaveSouth (109) - CrashtoothCave (108)
+109,North,0,108,South,13
+# CrashtoothCaveWest (110) - CrashtoothCaveNorth (111)
+110,North,0,111,South,0
+# CrashtoothCaveNorthBS (113) - CrashtoothCaveWest (110)
+113,East,35,110,West,0
+# CrashtoothCaveNorth2 (112) - CrashtoothCaveNorth (111)
+112,South,0,111,North,0
+# CrashtoothCaveNorthBS (113) - CrashtoothCaveNorth (111)
+113,East,15,111,West,0
+# CrashtoothCaveNorthBS (113) - CrashtoothCaveNorth2 (112)
+113,East,0,112,West,0
+# CrashtoothPass (106) - CrashtoothPass3 (127)
+106,West,0,127,East,35
+# CrashtoothPass1 (125) - CrashtoothPass3 (127)
+125,West,0,127,East,15
+# Shatterbolt (116) - CrashtoothPass3 (127)
+116,South,6,127,North,0
+# Route ? (124) - CrashtoothPass3 (127)
+124,South,26,127,North,0
+# CrashtoothPass2 (126) - CrashtoothPass3 (127)
+126,North,0,127,South,0
+# Route2p2 (104) - CrashtoothPass (106)
+104,North,8,106,South,0
+# Route2Rest (105) - CrashtoothPass (106)
+105,North,0,106,South,12
+# CrashtoothCaveEntrance (107) - CrashtoothPass (106)
+107,West,0,106,East,0
+# CrashtoothPass1 (125) - CrashtoothPass (106)
+125,South,0,106,North,0
+# CrashtoothPass2 (126) - CrashtoothPass (106)
+126,East,18,106,West,0
+# AdoptionCenter (48) - Route2p2 (104)
+48,North,25,104,South,0
+# Route 2 (103) - Route2p2 (104)
+103,East,3,104,West,0
+# Route2Rest (105) - Route2p2 (104)
+105,West,0,104,East,0
+# CrashtoothCaveEntrance (107) - Route2p2 (104)
+107,South,0,104,North,28
+# Tealdrip Town (42) - AdoptionCenter (48)
+42,North,10,48,South,0
+# Tealdrip Field (77) - AdoptionCenter (48)
+77,North,35,48,South,0
+# Kurt's House (78) - AdoptionCenter (48)
+78,East,0,48,West,5
+# Route2Rest (105) - AdoptionCenter (48)
+105,South,0,48,North,45
+# Tealdrip Field (77) - Tealdrip Town (42)
+77,East,0,42,West,0
+# Kurt's House (78) - Tealdrip Town (42)
+78,South,25,42,North,0
+# Kurt's House (78) - Tealdrip Field (77)
+78,South,0,77,North,0
+# Route1North (85) - Tealdrip Field (77)
+85,East,31,77,West,0
+# Route 1 (82) - Tealdrip Field (77)
+82,East,1,77,West,0
+# Route1North (85) - Kurt's House (78)
+85,East,6,78,West,0
+# Route 1 (82) - Kurt's House (78)
+82,East,0,78,West,24
+# Route 1 (82) - Route1North (85)
+82,North,0,85,South,0
+# Crimsonhill Coast (97) - Route1North (85)
+97,East,30,85,West,0
+# NorthBS (87) - Route1North (85)
+87,East,9,85,West,0
+# Route1Water (83) - Route1North (85)
+83,East,0,85,West,41
+# CrimsonhillWest (89) - Route1North (85)
+89,South,0,85,North,0
+# Route1BS (84) - Route1North (85)
+84,East,0,85,West,61
+# CrimsonhillCoastBS (98) - Route1North (85)
+98,South,40,85,North,0
+# CrimsonhillEast (94) - Route1North (85)
+94,South,0,85,North,30
+# Route 2 (103) - Route1North (85)
+103,South,0,85,North,60
+# Crimsonhill Coast (97) - Route 1 (82)
+97,East,60,82,West,0
+# NorthBS (87) - Route 1 (82)
+87,East,39,82,West,0
+# Route1Water (83) - Route 1 (82)
+83,East,0,82,West,11
+# Route1BS (84) - Route 1 (82)
+84,East,0,82,West,31
+# NorthBS (87) - Crimsonhill Coast (97)
+87,North,0,97,South,0
+# CrimsonhillWest (89) - Crimsonhill Coast (97)
+89,West,0,97,East,0
+# CrimsonhillCoastBS (98) - Crimsonhill Coast (97)
+98,East,0,97,West,0
+# CrimsonhillWestBS (99) - Crimsonhill Coast (97)
+99,South,0,97,North,10
+# CrimsonhillCoastBS2 (100) - Crimsonhill Coast (97)
+100,South,10,97,North,0
+# Route1Water (83) - NorthBS (87)
+83,North,5,87,South,0
+# CrimsonhillWest (89) - NorthBS (87)
+89,West,21,87,East,0
+# WaterBS (86) - NorthBS (87)
+86,North,25,87,South,0
+# CrimsonhillCoastBS (98) - NorthBS (87)
+98,East,21,87,West,0
+# CrimsonhillWest (89) - Route1Water (83)
+89,West,71,83,East,0
+# Route1BS (84) - Route1Water (83)
+84,North,0,83,South,5
+# WaterBS (86) - Route1Water (83)
+86,East,0,83,West,0
+# Route1BS (84) - CrimsonhillWest (89)
+84,East,0,89,West,91
+# CrimsonhillWestBS (99) - CrimsonhillWest (89)
+99,South,10,89,North,0
+# CrimsonhillEast (94) - CrimsonhillWest (89)
+94,West,0,89,East,0
+# CrimsonhillCoastBS2 (100) - CrimsonhillWest (89)
+100,South,30,89,North,0
+# WaterBS (86) - Route1BS (84)
+86,South,25,84,North,0
+# CrimsonhillCoastBS (98) - Route1BS (84)
+98,East,91,84,West,0
+# CrimsonhillWestBS (99) - CrimsonhillCoastBS (98)
+99,South,0,98,North,30
+# CrimsonhillCoastBS2 (100) - CrimsonhillCoastBS (98)
+100,South,0,98,North,10
+# CrimsonhillEast (94) - CrimsonhillWestBS (99)
+94,North,0,99,South,40
+# Route 2 (103) - CrimsonhillWestBS (99)
+103,North,0,99,South,70
+# CrimsonhillCoastBS2 (100) - CrimsonhillWestBS (99)
+100,East,0,99,West,0
+# Route 2 (103) - CrimsonhillEast (94)
+103,West,0,94,East,0
+# CrimsonhillCoastBS2 (100) - CrimsonhillEast (94)
+100,South,60,94,North,0
+# CrimsonhillCoastBS2 (100) - Route 2 (103)
+100,South,90,103,North,0
+# CrashtoothCaveEntrance (107) - Route2Rest (105)
+107,South,0,105,North,8
+# CrashtoothPass1 (125) - CrashtoothCaveEntrance (107)
+125,East,20,107,West,0
+# CrashtoothCaveEntrance (115) - CrashtoothPass1 (125)
+115,South,0,125,North,4
+# CrashtoothPass2 (126) - CrashtoothPass1 (125)
+126,East,0,125,West,2
+# Shatterbolt (116) - CrashtoothCaveEntrance (115)
+116,South,30,115,North,0
+# Route ? (124) - CrashtoothCaveEntrance (115)
+124,South,50,115,North,0
+# Route ? (124) - Shatterbolt (116)
+124,East,0,116,West,0

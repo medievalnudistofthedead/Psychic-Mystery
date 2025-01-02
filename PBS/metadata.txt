@@ -1,0 +1,35 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+StartMoney = 3000
+StartItemStorage = POTION
+Home = 43,24,8,2
+StorageCreator = Bill
+WildBattleBGM = GSC 066 Battle! Wild Pokémon (Johto) (Night)
+TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)
+WildVictoryBGM = GSC 011 Victory! (Wild Pokémon)
+TrainerVictoryBGM = GSC 019 Victory! (Trainer)
+WildCaptureME = GSC 038 Congratulations! Your Pokémon Evolved!
+SurfBGM = Surfing
+BicycleBGM = Bicycle
+#-------------------------------
+[1]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = trainer_POKEMONTRAINER_Red
+RunCharset = boy_run
+CycleCharset = boy_bike
+SurfCharset = boy_surf
+DiveCharset = boy_surf
+FishCharset = boy_fish_offset
+SurfFishCharset = boy_fish_offset
+Home = 43,24,8,2
+#-------------------------------
+[2]
+TrainerType = POKEMONTRAINER_Leaf
+WalkCharset = trainer_POKEMONTRAINER_Leaf
+RunCharset = girl_run
+CycleCharset = girl_bike
+SurfCharset = girl_surf
+DiveCharset = girl_surf
+FishCharset = girl_fish_offset
+SurfFishCharset = girl_fish_offset

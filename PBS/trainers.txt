@@ -1,0 +1,206 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = Aww man I've been training here for so long. What a jip.
+Pokemon = ZIGZAGOON,5
+Pokemon = MAREEP,4
+    Item = SITRUSBERRY
+#-------------------------------
+[LASS,Crissy]
+LoseText = Oh no, my precious birthday Pokemon!
+Pokemon = PLUSLE,4
+Pokemon = MINUN,4
+#-------------------------------
+[LASS,Steph]
+LoseText = You didn't have to win so convincingly!
+Pokemon = HOOTHOOT,5
+Pokemon = SPINARAK,5
+    Item = ORANBERRY
+Pokemon = CATERPIE,5
+Pokemon = WEEDLE,5
+#-------------------------------
+[YOUNGSTER,Shohei]
+LoseText = Wow, you sure are strong!
+Pokemon = BELLSPROUT,6
+Pokemon = SPEAROW,5
+#-------------------------------
+[YOUNGSTERR,Joey]
+LoseText = But... My mom told me I would win if I keep trying...
+Pokemon = CATERPIE,1
+Pokemon = CATERPIE,2
+Pokemon = CATERPIE,3
+Pokemon = CATERPIE,4
+Pokemon = CATERPIE,5
+Pokemon = CATERPIE,10
+    IV = 31,31,31,31,31,31
+    Shiny = true
+#-------------------------------
+[CAMPER,Liam]
+LoseText = I can't believe you beat me!
+Pokemon = WURMPLE,9
+Pokemon = SKITTY,10
+#-------------------------------
+[POKEMONTRAINER_Salya,Salya]
+Items = SUPERPOTION
+LoseText = ... Wow I can't believe you're better than me already. I know you'll be able to win against Bugsy.
+Pokemon = EEVEE,10
+    Item = ORANBERRY
+Pokemon = MILTANK,9
+    Ball = GREATBALL
+Pokemon = SPINARAK,10
+#-------------------------------
+[LEADER_Bugsy,Bugsy]
+Items = FULLRESTORE
+LoseText = Impressive battle. I expect great things from both you and your sister.
+Pokemon = KECLEON,10
+    Item = ORANBERRY
+    Ball = GREATBALL
+Pokemon = STANTLER,11
+    Ball = GREATBALL
+Pokemon = SCYTHER,11
+    Name = Slasher
+    Moves = SLASH,FURYCUTTER,PURSUIT,FOCUSENERGY
+    Item = SITRUSBERRY
+    Ball = ULTRABALL
+Pokemon = BEAUTIFLY,12
+    Moves = MEGADRAIN,STUNSPORE,GUST,ATTRACT
+    Gender = female
+    Ball = GREATBALL
+#-------------------------------
+[DANCER,Kristi]
+LoseText = It looks like you were the one on fire after all.
+Pokemon = HOUNDOUR,10
+Pokemon = VULPIX,11
+#-------------------------------
+[DANCER,Amanda]
+LoseText = ...
+Pokemon = HORSEA,10
+Pokemon = MARILL,10
+Pokemon = LUVDISC,11
+#-------------------------------
+[DANCER,Jackie]
+LoseText = No wonder you beat Seneca!
+Pokemon = RALTS,11
+Pokemon = CLEFAIRY,11
+    Ball = ULTRABALL
+#-------------------------------
+[DANCER,Dana]
+LoseText = My Pokemon are better at dancing than battling.
+Pokemon = PIKACHU,12
+Pokemon = PACHIRISU,10
+Pokemon = WOOPER,11
+#-------------------------------
+[DANCER,Jessie]
+LoseText = I was the strongest one too...
+Pokemon = ROSELIA,12
+Pokemon = SNEASEL,12
+    BALL = GREATBALL
+Pokemon = NATU,12
+Pokemon = MAWILE,13
+    BALL = ULTRABALL
+#-------------------------------
+[SUSHIKER,Anthony]
+LoseText = I guess we have to pay the toll instead.
+Pokemon = GEODUDE,11
+Pokemon = SUDOWOODO,12
+#-------------------------------
+[SUSHIKER,John]
+LoseText = This didn't work out so well for us...
+Pokemon = SHUCKLE,11
+Pokemon = CORSOLA,12
+#-------------------------------
+[HIKER,Jerry]
+LoseText = You beat me good!
+Pokemon = CUBONE,12
+Pokemon = SANDSHREW,12
+Pokemon = ONIX,11
+    Ball = GREATBALL
+#-------------------------------
+[BUGCATCHER,Dan]
+LoseText = I need to catch more Pokemon!
+Pokemon = NINCADA,13
+Pokemon = LEDYBA,13
+#-------------------------------
+[LADY,Kiesha]
+LoseText = Great battle!
+Pokemon = ABRA,13
+    Ball = GREATBALL
+Pokemon = NATU,13
+    Item = SITRUSBERRY
+Pokemon = GIRAFARIG,14
+    Ball = ULTRABALL
+Pokemon = LARVITAR,14
+    Ball = GREATBALL
+    Item = ORANBERRY
+#-------------------------------
+[HIKER,Berry]
+LoseText = Exploring has got me tired!
+Pokemon = ZUBAT,15
+Pokemon = MACHOP,13
+Pokemon = SLAKOTH,13
+#-------------------------------
+[HIKER,Ted]
+LoseText = I shouldn't have battled!
+Pokemon = TEDDIURSA,13
+Pokemon = GEODUDE,13
+#-------------------------------
+[BLACKBELT,Ron]
+LoseText = Never stop training!
+Pokemon = FARFETCHD,14
+Pokemon = MAKUHITA,15
+Pokemon = MANKEY,13
+#-------------------------------
+[BLACKBELT,Ashton]
+LoseText = How could I lose?
+Pokemon = HITMONLEE,15
+Pokemon = HITMONCHAN,15
+#-------------------------------
+[CAMPER,Brock]
+LoseText = Don't get too cocky, I'm the easiest trainer here.
+Pokemon = NUMEL,15
+Pokemon = SLUGMA,15
+#-------------------------------
+[CAMPER,Julian]
+LoseText = Can you get past the next trainer?
+Pokemon = GROWLITHE,15
+Pokemon = ONIX,16
+Pokemon = NOSEPASS,15
+#-------------------------------
+[CAMPER,Laith]
+LoseText = You're pretty good, I admit.
+Pokemon = ARON,15
+Pokemon = BONSLY,14
+Pokemon = DWEBBLE,15
+#-------------------------------
+[CAMPER,Sheldon]
+LoseText = Impressive!
+Pokemon =  ROCKRUFF,16
+Pokemon = MAGBY,17
+#-------------------------------
+[LEADER_BLAINE,Blaine]
+Items = FULLRESTORE
+Pokemon = PONYTA,16
+    Item = SITRUSBERRY
+Pokemon = LUNATONE,17
+Pokemon = CRANIDOS,17
+    Item = SITRUSBERRY
+Pokemon = TORKOAL,18
+Pokemon = MAGCARGO,40
+#-------------------------------
+[LEADER_Brock,Brock]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Very good.
+Pokemon = GEODUDE,12
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = ONIX,14
+    Name = Rocky
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Shiny = true
+    Ball = HEAVYBALL
