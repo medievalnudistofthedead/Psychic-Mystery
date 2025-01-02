@@ -187,6 +187,15 @@ Pokemon = CRANIDOS,17
 Pokemon = TORKOAL,18
 Pokemon = MAGCARGO,40
 #-------------------------------
+[QUESTIONMARK,???]
+Pokemon = EEVEE,18
+    Shadow = yes
+Pokemon = MILTANK,19
+    Ball = GREATBALL
+    Shadow = yes
+Pokemon = SPINARAK,18
+    Shadow = yes
+#-------------------------------
 [LEADER_Brock,Brock]
 Items = FULLRESTORE,FULLRESTORE
 LoseText = Very good.

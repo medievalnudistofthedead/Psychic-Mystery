@@ -1,0 +1,7 @@
+######BATTLES#######
+(Conditional Branch) TrainerBattle.start(:LEADER_BLAINE, "Blaine")
+#Blah blah blah after win
+Branch End
+pbTrainerEnd
+######BATTLES#######
+
