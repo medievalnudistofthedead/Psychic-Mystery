@@ -1,0 +1,5 @@
+Name         = Medi's Plugins (A collection of general plugins)
+Version      = 1.0
+Credits      = Medi
+Essentials   = 21.1
+Requires     = v21.1 Hotfixes
