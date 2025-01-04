@@ -14490,6 +14490,7 @@ Pokedex = By vibrating its cheeks, it emits sound waves imperceptible to humans.
 Generation = 5
 Evolutions = PALPITOAD,Level,25
 CallRateSOS = 25
+SpeciesSOS = TYMPOLE
 #-------------------------------
 [PALPITOAD]
 Name = Palpitoad

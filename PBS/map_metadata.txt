@@ -755,3 +755,136 @@ MapPosition = 0,25,10
 Name = Shatterbolt Gym
 ShowArea = true
 MapPosition = 0,25,10
+#-------------------------------
+[128]   # DARKCrimsonHillGym
+Name = ???
+ShowArea = true
+#-------------------------------
+[129]   # DARKCrimsonhillWest
+Name = ???
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[130]   # DARKCrimsonhillEast
+Name = ???
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[131]   # DARKCrimsonHillPokeCenter
+Name = ???
+ShowArea = true
+HealingSpot = 129,11,16
+#-------------------------------
+[132]   # DARKCrimsonHillMart
+Name = ???
+ShowArea = true
+#-------------------------------
+[133]   # DARKItemHouse
+Name = ???
+#-------------------------------
+[134]   # DARKDance Theater
+Name = ???
+ShowArea = true
+BattleBack = indoor2
+#-------------------------------
+[135]   # DARKJimmy's House
+Name = ???
+ShowArea = true
+#-------------------------------
+[136]   # DARKRoute 2
+Name = ???
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BattleBack = field
+WildBattleBGM = GSC 066 Battle! Wild Pokémon (Johto) (Night)
+TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)
+WildVictoryBGM = GSC 011 Victory! (Wild Pokémon)
+TrainerVictoryBGM = GSC 019 Victory! (Trainer)
+WildCaptureME = GSC 038 Congratulations! Your Pokémon Evolved!
+Environment = Grass
+#-------------------------------
+[137]   # DARKRoute2p2
+Name = ???
+Outdoor = true
+Bicycle = true
+BattleBack = field
+WildBattleBGM = GSC 066 Battle! Wild Pokémon (Johto) (Night)
+TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)
+WildVictoryBGM = GSC 011 Victory! (Wild Pokémon)
+TrainerVictoryBGM = GSC 019 Victory! (Trainer)
+WildCaptureME = GSC 038 Congratulations! Your Pokémon Evolved!
+Environment = Grass
+#-------------------------------
+[138]   # DARKRoute2Rest
+Name = ???
+Outdoor = true
+Bicycle = true
+BattleBack = field
+WildBattleBGM = GSC 066 Battle! Wild Pokémon (Johto) (Night)
+TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)
+WildVictoryBGM = GSC 011 Victory! (Wild Pokémon)
+TrainerVictoryBGM = GSC 019 Victory! (Trainer)
+WildCaptureME = GSC 038 Congratulations! Your Pokémon Evolved!
+Environment = Grass
+#-------------------------------
+[139]   # DARKCrashtoothPass
+Name = ???
+Outdoor = true
+Bicycle = true
+BattleBack = field
+WildBattleBGM = GSC 066 Battle! Wild Pokémon (Johto) (Night)
+TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)
+WildVictoryBGM = GSC 011 Victory! (Wild Pokémon)
+TrainerVictoryBGM = GSC 019 Victory! (Trainer)
+WildCaptureME = GSC 038 Congratulations! Your Pokémon Evolved!
+Environment = Grass
+#-------------------------------
+[140]   # DARKCrashtoothCaveEntrance
+Name = ???
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BattleBack = field
+WildBattleBGM = GSC 066 Battle! Wild Pokémon (Johto) (Night)
+TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)
+WildVictoryBGM = GSC 011 Victory! (Wild Pokémon)
+TrainerVictoryBGM = GSC 019 Victory! (Trainer)
+WildCaptureME = GSC 038 Congratulations! Your Pokémon Evolved!
+Environment = Grass
+#-------------------------------
+[141]   # DARKCrashtoothCave
+Name = ???
+ShowArea = true
+Bicycle = true
+BattleBack = cave1
+WildBattleBGM = GSC 066 Battle! Wild Pokémon (Johto) (Night)
+TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)
+WildVictoryBGM = GSC 011 Victory! (Wild Pokémon)
+TrainerVictoryBGM = GSC 019 Victory! (Trainer)
+WildCaptureME = GSC 038 Congratulations! Your Pokémon Evolved!
+Environment = Cave
+#-------------------------------
+[142]   # DARKCrashtoothCaveWest
+Name = ???
+Bicycle = true
+BattleBack = cave1
+WildBattleBGM = GSC 066 Battle! Wild Pokémon (Johto) (Night)
+TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)
+WildVictoryBGM = GSC 011 Victory! (Wild Pokémon)
+TrainerVictoryBGM = GSC 019 Victory! (Trainer)
+WildCaptureME = GSC 038 Congratulations! Your Pokémon Evolved!
+Environment = Cave
+#-------------------------------
+[143]   # DARKCrashtoothCaveSouth
+Name = ???
+Bicycle = true
+BattleBack = cave1
+WildBattleBGM = GSC 066 Battle! Wild Pokémon (Johto) (Night)
+TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)
+WildVictoryBGM = GSC 011 Victory! (Wild Pokémon)
+TrainerVictoryBGM = GSC 019 Victory! (Trainer)
+WildCaptureME = GSC 038 Congratulations! Your Pokémon Evolved!
+Environment = Cave
