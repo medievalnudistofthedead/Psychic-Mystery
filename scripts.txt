@@ -4,4 +4,6 @@
 Branch End
 pbTrainerEnd
 ######BATTLES#######
+pbRandomizedItemBall(QTY)
+pbDARKPokemonMart
 

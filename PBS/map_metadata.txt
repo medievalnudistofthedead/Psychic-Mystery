@@ -417,6 +417,8 @@ Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
 #-------------------------------
+#-----START
+#-------------------------------
 [076]   # Adoption Center
 Name = Adoption Center
 ShowArea = true
@@ -759,45 +761,54 @@ MapPosition = 0,25,10
 [128]   # DARKCrimsonHillGym
 Name = ???
 ShowArea = true
+MapPosition = 0,23,14
 #-------------------------------
 [129]   # DARKCrimsonhillWest
 Name = ???
 Outdoor = true
 ShowArea = true
 Bicycle = true
+MapPosition = 0,23,14
 #-------------------------------
 [130]   # DARKCrimsonhillEast
 Name = ???
 Outdoor = true
 ShowArea = true
 Bicycle = true
+MapPosition = 0,24,14
 #-------------------------------
 [131]   # DARKCrimsonHillPokeCenter
 Name = ???
 ShowArea = true
 HealingSpot = 129,11,16
+MapPosition = 0,23,14
 #-------------------------------
 [132]   # DARKCrimsonHillMart
 Name = ???
 ShowArea = true
+MapPosition = 0,23,14
 #-------------------------------
 [133]   # DARKItemHouse
 Name = ???
+MapPosition = 0,23,14
 #-------------------------------
 [134]   # DARKDance Theater
 Name = ???
 ShowArea = true
 BattleBack = indoor2
+MapPosition = 0,24,14
 #-------------------------------
 [135]   # DARKJimmy's House
 Name = ???
 ShowArea = true
+MapPosition = 0,24,14
 #-------------------------------
 [136]   # DARKRoute 2
 Name = ???
 Outdoor = true
 ShowArea = true
 Bicycle = true
+MapPosition = 0,25,14
 BattleBack = field
 WildBattleBGM = GSC 066 Battle! Wild Pokémon (Johto) (Night)
 TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)
@@ -810,6 +821,7 @@ Environment = Grass
 Name = ???
 Outdoor = true
 Bicycle = true
+MapPosition = 0,26,14
 BattleBack = field
 WildBattleBGM = GSC 066 Battle! Wild Pokémon (Johto) (Night)
 TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)
@@ -822,6 +834,7 @@ Environment = Grass
 Name = ???
 Outdoor = true
 Bicycle = true
+MapPosition = 0,27,14
 BattleBack = field
 WildBattleBGM = GSC 066 Battle! Wild Pokémon (Johto) (Night)
 TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)
@@ -834,6 +847,7 @@ Environment = Grass
 Name = ???
 Outdoor = true
 Bicycle = true
+MapPosition = 0,26,13
 BattleBack = field
 WildBattleBGM = GSC 066 Battle! Wild Pokémon (Johto) (Night)
 TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)
@@ -847,6 +861,7 @@ Name = ???
 Outdoor = true
 ShowArea = true
 Bicycle = true
+MapPosition = 0,27,13
 BattleBack = field
 WildBattleBGM = GSC 066 Battle! Wild Pokémon (Johto) (Night)
 TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)
@@ -859,6 +874,7 @@ Environment = Grass
 Name = ???
 ShowArea = true
 Bicycle = true
+MapPosition = 0,27,13
 BattleBack = cave1
 WildBattleBGM = GSC 066 Battle! Wild Pokémon (Johto) (Night)
 TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)
@@ -870,6 +886,7 @@ Environment = Cave
 [142]   # DARKCrashtoothCaveWest
 Name = ???
 Bicycle = true
+MapPosition = 0,27,13
 BattleBack = cave1
 WildBattleBGM = GSC 066 Battle! Wild Pokémon (Johto) (Night)
 TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)
@@ -881,6 +898,7 @@ Environment = Cave
 [143]   # DARKCrashtoothCaveSouth
 Name = ???
 Bicycle = true
+MapPosition = 0,27,13
 BattleBack = cave1
 WildBattleBGM = GSC 066 Battle! Wild Pokémon (Johto) (Night)
 TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)

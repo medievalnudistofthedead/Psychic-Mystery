@@ -137,7 +137,7 @@ BattleBGM = GSC 084 Battle! Gym Leader (Kanto)
 VictoryBGM = GSC 043 Victory! (Gym Leader)
 #-------------------------------
 [QUESTIONMARK]
-Name = ???
+Name =
 Gender = Female
 BaseMoney = 0
 SkillLevel = 50
